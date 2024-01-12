@@ -7,6 +7,16 @@ To create aftermarket retrofit hardware and software that meets or exceeds SAE L
 ## Objectives
 1. Source off-the-shelf hardware solutions comparable to the 5th-generation Waymo Driver sensor suite.
 
+## Planned features
+* Adaptive cruise control
+* Lane centering
+* Pedestrian and bicycle detection
+* Traffic sign and traffic light detection
+* Map-based navigation
+
+## Hardware
+8 5MP cameras
+
 ## Prior art
 * [^2] Jeyachandran, Satish (March 4, 2020). "Waypoint - The official Waymo blog: Introducing the 5th-generation Waymo Driver: Informed by experience, designed for scale, engineered to tackle more environments". Waymo. Retrieved 11 January 2024.
 
