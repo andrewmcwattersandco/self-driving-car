@@ -1,5 +1,5 @@
 # self-driving-car
-Public notes on the **McWatters Automotive Self-Driving Car Project**
+Notes on the **McWatters Automotive Self-Driving Car Project**
 
 ## Goal
 To create aftermarket retrofit hardware and software that meets or exceeds SAE Level 4 per J3016 APR2021.[^1]
